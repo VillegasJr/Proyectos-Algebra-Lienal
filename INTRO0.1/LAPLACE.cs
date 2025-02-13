@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+ 
 namespace INTRO0._1
 {
     public partial class LAPLACE : Form
@@ -20,6 +20,7 @@ namespace INTRO0._1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //PENDIENTEEEEE NO DA BIEN LOS RESULTADOS 
             int num11 = Convert.ToInt32(box11.Text);
             int num12 = Convert.ToInt32(box21.Text);
             int num13 = Convert.ToInt32(box31.Text);
@@ -103,8 +104,8 @@ namespace INTRO0._1
 
 
             /// int adj1 = determinante1
-            int adj = (-1) * i + j;
-            int adj11 = adj * determinante1;
+            //int adj = (-1) * i + j;
+            //int adj11 = adj * determinante1;
                 
 
             // int c1 = (num11 * determinante1 * 1);

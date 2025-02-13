@@ -82,6 +82,12 @@
     <Compile Include="LAPLACE.Designer.cs">
       <DependentUpon>LAPLACE.cs</DependentUpon>
     </Compile>
+    <Compile Include="MatrisInversa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatrisInversa.Designer.cs">
+      <DependentUpon>MatrisInversa.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -101,6 +107,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="LAPLACE.resx">
       <DependentUpon>LAPLACE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatrisInversa.resx">
+      <DependentUpon>MatrisInversa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

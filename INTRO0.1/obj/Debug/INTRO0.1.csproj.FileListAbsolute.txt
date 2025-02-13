@@ -13,3 +13,19 @@ C:\Users\rrevi\source\repos\INTRO0.1\obj\Debug\INTRO0._1.Form3.resources
 C:\Users\rrevi\source\repos\INTRO0.1\obj\Debug\INTRO0._1.Form4.resources
 C:\Users\rrevi\source\repos\INTRO0.1\obj\Debug\INTRO0._1.Home.resources
 C:\Users\rrevi\source\repos\INTRO0.1\obj\Debug\INTRO0._1.LAPLACE.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0.1.csproj.AssemblyReference.cache
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.Form1.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.Form2.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.Form3.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.Form4.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.Home.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.LAPLACE.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.Properties.Resources.resources
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0.1.csproj.GenerateResource.cache
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0.1.csproj.CoreCompileInputs.cache
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0.1.exe
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0.1.pdb
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\bin\Debug\INTRO0.1.exe.config
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\bin\Debug\INTRO0.1.exe
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\bin\Debug\INTRO0.1.pdb
+C:\Users\rrevi\OneDrive\Documentos\PROYECTOS C#\INTRO0.1\obj\Debug\INTRO0._1.Matris_Inversa.resources

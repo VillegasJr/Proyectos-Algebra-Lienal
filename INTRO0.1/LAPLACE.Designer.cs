@@ -424,9 +424,8 @@ namespace INTRO0._1
             this.Det_1.AutoSize = true;
             this.Det_1.Location = new System.Drawing.Point(113, 473);
             this.Det_1.Name = "Det_1";
-            this.Det_1.Size = new System.Drawing.Size(36, 20);
+            this.Det_1.Size = new System.Drawing.Size(0, 20);
             this.Det_1.TabIndex = 41;
-            this.Det_1.Text = "___";
             // 
             // label24
             // 
@@ -442,9 +441,8 @@ namespace INTRO0._1
             this.Det_2.AutoSize = true;
             this.Det_2.Location = new System.Drawing.Point(309, 473);
             this.Det_2.Name = "Det_2";
-            this.Det_2.Size = new System.Drawing.Size(36, 20);
+            this.Det_2.Size = new System.Drawing.Size(0, 20);
             this.Det_2.TabIndex = 43;
-            this.Det_2.Text = "___";
             // 
             // label25
             // 
@@ -460,9 +458,8 @@ namespace INTRO0._1
             this.Det_3.AutoSize = true;
             this.Det_3.Location = new System.Drawing.Point(491, 473);
             this.Det_3.Name = "Det_3";
-            this.Det_3.Size = new System.Drawing.Size(36, 20);
+            this.Det_3.Size = new System.Drawing.Size(0, 20);
             this.Det_3.TabIndex = 45;
-            this.Det_3.Text = "___";
             // 
             // label26
             // 
@@ -478,9 +475,8 @@ namespace INTRO0._1
             this.Det_4.AutoSize = true;
             this.Det_4.Location = new System.Drawing.Point(663, 473);
             this.Det_4.Name = "Det_4";
-            this.Det_4.Size = new System.Drawing.Size(36, 20);
+            this.Det_4.Size = new System.Drawing.Size(0, 20);
             this.Det_4.TabIndex = 47;
-            this.Det_4.Text = "___";
             // 
             // LAPLACE
             // 
@@ -538,6 +534,7 @@ namespace INTRO0._1
             this.Controls.Add(this.box11);
             this.Name = "LAPLACE";
             this.Text = "LAPLACE";
+            
             this.ResumeLayout(false);
             this.PerformLayout();
 
