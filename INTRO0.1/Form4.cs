@@ -111,7 +111,7 @@ namespace INTRO0._1
             Det_Z.Text = z.ToString();
             //limpiar las casillas.
         }
-         
+         //ESTO ES SOLO UN COMENTARIO DE PUEBA 
         // Calcular la sumatoria de diagonales
         private int calDiagonal(int num1, int num2, int num3)
         {
