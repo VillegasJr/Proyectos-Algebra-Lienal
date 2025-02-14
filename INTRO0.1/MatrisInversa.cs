@@ -75,42 +75,71 @@ namespace INTRO0._1
             // First fila 
             int m1 = dosx(n22, n33);
             int m2 = dosx(n32, n23);
-            r1 = m1 - m2;
+            r1 = (m1 - m2) * inversa1;
+            A11.Text = r1.ToString();
 
             int m3 = dosx(n21, n33);
             int m4 = dosx(n31, n23);
-            r2 = m3 - m4;
+            r2 = (m3 - m4) * inversa2;
+            A12.Text = r2.ToString();
 
             int m5 = dosx(n21, n32);
             int m6 = dosx(n31, n22);
-            r3 = m5 - m6;
+            r3 = (m5 - m6) * inversa3;
+            A13.Text = r3.ToString();
 
             // Second fila 
             m1 = dosx(n12, n33);
             m2 = dosx(n32, n13);
-            r4 = m1 - m2;
+            r4 = (m1 - m2) * inversa4;
+            A21.Text = r4.ToString();
 
             m3 = dosx(n11, n33);
             m4 = dosx(n31, n13);
-            r5 = m3 - m4;
+            r5 = (m3 - m4) * inversa5;
+            A22.Text = r5.ToString();
 
             m5 = dosx(n11, n32);
             m6 = dosx(n31, n12);
-            r6 = m5 - m6;
+            r6 = (m5 - m6) * inversa6;
+            A23.Text = r6.ToString();
 
             // Third fila
             m1 = dosx(n12, n23);
             m2 = dosx(n22, n13);
-            r7 = m1 - m2;
+            r7 = (m1 - m2) * inversa7;
+            A31.Text = r7.ToString();
 
             m3 = dosx(n11, n23);
             m4 = dosx(n21, n13);
-            r8 = m3 - m4;
+            r8 = (m3 - m4) * inversa8;
+            A32.Text = r8.ToString();
 
             m5 = dosx(n11, n22);
             m6 = dosx(n21, n12);
-            r9 = m5 - m6;
+            r9 = (m5 - m6) * inversa9;
+            A33.Text = r9.ToString();
 
+            // Matriz inversa 
+            decimal div1 = r1 / det1;
+            r_1.Text = div1.ToString();
+            decimal div2 = r2 / det1;
+            r_2.Text = div2.ToString();
+            decimal div3 = r3 / det1;
+            r_3.Text = div3.ToString();
+            decimal div4 = r4 / det1;
+            r_4.Text = div4.ToString();
+            decimal div5 = r5 / det1;
+            r_5.Text = div5.ToString();
+            decimal div6 = r6 / det1;
+            r_6.Text = div6.ToString();
+            decimal div7 = r7 / det1;
+            r_7.Text = div7.ToString();
+            decimal div8 = r8 / det1;
+            r_8.Text = div8.ToString();
+            decimal div9 = r9 / det1;
+            r_9.Text = div9.ToString();
+           // if (div1 || div2 || div3 || div4 || div5 || div6 || div7 || div8|| div9 )
         }
         private int sarrus(int num11, int num12, int num13)
         {
