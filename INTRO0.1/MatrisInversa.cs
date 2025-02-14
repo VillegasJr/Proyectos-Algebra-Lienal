@@ -31,7 +31,7 @@ namespace INTRO0._1
             int n32 = Convert.ToInt32(z23.Text);
             int n33 = Convert.ToInt32(z33.Text);
 
-            int det1 = 0;
+            decimal det1 = 0;
             //int det2 = 0;
             //int det3 = 0;
 
@@ -45,15 +45,15 @@ namespace INTRO0._1
             int inversa8 = -1;
             int inversa9 = 1;
 
-            int r1 = 0;
-            int r2 = 0;
-            int r3 = 0;
-            int r4 = 0;
-            int r5 = 0;
-            int r6 = 0;
-            int r7 = 0;
-            int r8 = 0;
-            int r9 = 0;
+            decimal r1 = 0;
+            decimal r2 = 0;
+            decimal r3 = 0;
+            decimal r4 = 0;
+            decimal r5 = 0;
+            decimal r6 = 0;
+            decimal r7 = 0;
+            decimal r8 = 0;
+            decimal r9 = 0;
 
             // Calcular determinante de matriz general inversa 
 
@@ -135,7 +135,7 @@ namespace INTRO0._1
             r_6.Text = div6.ToString();
             decimal div7 = r7 / det1;
             r_7.Text = div7.ToString();
-            decimal div8 = r8 / det1;
+            decimal div8 = r8 / det1;   
             r_8.Text = div8.ToString();
             decimal div9 = r9 / det1;
             r_9.Text = div9.ToString();

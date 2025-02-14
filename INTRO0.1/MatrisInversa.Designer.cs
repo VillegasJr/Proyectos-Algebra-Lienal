@@ -395,7 +395,7 @@
             // r_1
             // 
             this.r_1.AutoSize = true;
-            this.r_1.Location = new System.Drawing.Point(202, 497);
+            this.r_1.Location = new System.Drawing.Point(211, 630);
             this.r_1.Name = "r_1";
             this.r_1.Size = new System.Drawing.Size(60, 20);
             this.r_1.TabIndex = 37;
@@ -404,7 +404,7 @@
             // r_2
             // 
             this.r_2.AutoSize = true;
-            this.r_2.Location = new System.Drawing.Point(339, 497);
+            this.r_2.Location = new System.Drawing.Point(437, 630);
             this.r_2.Name = "r_2";
             this.r_2.Size = new System.Drawing.Size(60, 20);
             this.r_2.TabIndex = 38;
@@ -413,7 +413,7 @@
             // r_3
             // 
             this.r_3.AutoSize = true;
-            this.r_3.Location = new System.Drawing.Point(477, 497);
+            this.r_3.Location = new System.Drawing.Point(651, 630);
             this.r_3.Name = "r_3";
             this.r_3.Size = new System.Drawing.Size(60, 20);
             this.r_3.TabIndex = 39;
@@ -422,7 +422,7 @@
             // r_4
             // 
             this.r_4.AutoSize = true;
-            this.r_4.Location = new System.Drawing.Point(202, 570);
+            this.r_4.Location = new System.Drawing.Point(211, 740);
             this.r_4.Name = "r_4";
             this.r_4.Size = new System.Drawing.Size(60, 20);
             this.r_4.TabIndex = 40;
@@ -431,7 +431,7 @@
             // r_5
             // 
             this.r_5.AutoSize = true;
-            this.r_5.Location = new System.Drawing.Point(339, 570);
+            this.r_5.Location = new System.Drawing.Point(437, 740);
             this.r_5.Name = "r_5";
             this.r_5.Size = new System.Drawing.Size(60, 20);
             this.r_5.TabIndex = 41;
@@ -440,7 +440,7 @@
             // r_6
             // 
             this.r_6.AutoSize = true;
-            this.r_6.Location = new System.Drawing.Point(477, 570);
+            this.r_6.Location = new System.Drawing.Point(651, 740);
             this.r_6.Name = "r_6";
             this.r_6.Size = new System.Drawing.Size(60, 20);
             this.r_6.TabIndex = 42;
@@ -449,7 +449,7 @@
             // r_7
             // 
             this.r_7.AutoSize = true;
-            this.r_7.Location = new System.Drawing.Point(202, 640);
+            this.r_7.Location = new System.Drawing.Point(211, 857);
             this.r_7.Name = "r_7";
             this.r_7.Size = new System.Drawing.Size(60, 20);
             this.r_7.TabIndex = 43;
@@ -458,7 +458,7 @@
             // r_8
             // 
             this.r_8.AutoSize = true;
-            this.r_8.Location = new System.Drawing.Point(339, 640);
+            this.r_8.Location = new System.Drawing.Point(437, 857);
             this.r_8.Name = "r_8";
             this.r_8.Size = new System.Drawing.Size(60, 20);
             this.r_8.TabIndex = 44;
@@ -467,7 +467,7 @@
             // r_9
             // 
             this.r_9.AutoSize = true;
-            this.r_9.Location = new System.Drawing.Point(477, 640);
+            this.r_9.Location = new System.Drawing.Point(651, 857);
             this.r_9.Name = "r_9";
             this.r_9.Size = new System.Drawing.Size(60, 20);
             this.r_9.TabIndex = 45;
@@ -477,6 +477,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(1360, 930);
             this.Controls.Add(this.r_9);
             this.Controls.Add(this.r_8);

@@ -16,7 +16,7 @@ namespace INTRO0._1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Matris_Inversa());
+            Application.Run(new Home());
         }
     }
 }
