@@ -19,6 +19,7 @@ namespace INTRO0._1
         }
         private void button1_Click(object sender, EventArgs e)
         {
+            //Estos ahorita lo borro
             int num11 = Convert.ToInt32(lb_x1.Text);
             int num12 = Convert.ToInt32(lb_x2.Text);
             int num13 = Convert.ToInt32(lb_x3.Text);
@@ -60,7 +61,7 @@ namespace INTRO0._1
             //calcular determinante
             decimal Det_x = ds - di;
             decimal x = Det_x / det;
-            ////////////////////////////////////////////////////////////////////////////////////////////
+            /////////////////////////////////////////////
             //CALCULAR Y
             //Det. Superior 
             d1 = calDiagonal(num11, num42, num33);
@@ -76,8 +77,7 @@ namespace INTRO0._1
             //calcular determinante 
             decimal Det_y = ds - di;
             decimal y = Det_y / det;
-            ///////////////////////////////////////////////////////////////////////////////////////////
-            //CALCULAR Z
+            //////////////////////////////////////////////
             //Det. Superior
             d1 = calDiagonal(num11, num22, num43);
             d2 = calDiagonal(num12, num23, num41);

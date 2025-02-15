@@ -156,5 +156,18 @@ namespace INTRO0._1
             int cal = num11 * num12;
             return cal;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            x11.Clear();
+            x21.Clear();
+            x31.Clear();
+            y12.Clear();
+            y22.Clear();
+            y32.Clear();
+            z13.Clear();
+            z23.Clear();
+            z33.Clear();
+        }
     }
 }

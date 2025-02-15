@@ -78,6 +78,7 @@ namespace INTRO0._1
             this.Det_3 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.Det_4 = new System.Windows.Forms.Label();
+            this.Limpiar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // box11
@@ -478,12 +479,23 @@ namespace INTRO0._1
             this.Det_4.Size = new System.Drawing.Size(0, 20);
             this.Det_4.TabIndex = 47;
             // 
+            // Limpiar
+            // 
+            this.Limpiar.Location = new System.Drawing.Point(849, 156);
+            this.Limpiar.Name = "Limpiar";
+            this.Limpiar.Size = new System.Drawing.Size(114, 63);
+            this.Limpiar.TabIndex = 48;
+            this.Limpiar.Text = "Borrar";
+            this.Limpiar.UseVisualStyleBackColor = true;
+            this.Limpiar.Click += new System.EventHandler(this.Limpiar_Click);
+            // 
             // LAPLACE
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.ClientSize = new System.Drawing.Size(1220, 684);
+            this.Controls.Add(this.Limpiar);
             this.Controls.Add(this.Det_4);
             this.Controls.Add(this.label26);
             this.Controls.Add(this.Det_3);
@@ -534,7 +546,6 @@ namespace INTRO0._1
             this.Controls.Add(this.box11);
             this.Name = "LAPLACE";
             this.Text = "LAPLACE";
-            
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -595,5 +606,6 @@ namespace INTRO0._1
         private System.Windows.Forms.Label Det_3;
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Label Det_4;
+        private System.Windows.Forms.Button Limpiar;
     }
 }

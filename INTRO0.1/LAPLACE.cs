@@ -143,5 +143,27 @@ namespace INTRO0._1
             int valor = val;
             return valor;
         }
+
+        private void Limpiar_Click(object sender, EventArgs e)
+        {
+            box11.Clear();
+            box12.Clear();
+            box13.Clear();
+            box14.Clear();
+            box21.Clear();
+            box22.Clear();
+            box23.Clear();
+            box24.Clear();
+            box31.Clear();
+            box32.Clear();
+            box33.Clear();
+            box34.Clear();
+            box41.Clear();
+            box42.Clear();
+            box43.Clear();
+            box44.Clear();
+
+            //FALTA MEJORAS EN EL CALCULO 
+        }
     }
 }

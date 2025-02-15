@@ -53,5 +53,11 @@ namespace INTRO0._1
 
             lb_text.Text = division.ToString();
         }
+
+        private void Limpiar_Click(object sender, EventArgs e)
+        {
+            lb_1.Clear();
+            lb_2.Clear();
+        }
     }
 }
