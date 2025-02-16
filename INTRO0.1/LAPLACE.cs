@@ -46,13 +46,33 @@ namespace INTRO0._1
             int determinante3 = 0;
             int determinante4 = 0;
 
+            int adj11 = 1;
+            int adj12 = -1;
+            int adj13 = 1;
+            int adj14 = -1;
+
+            int adj21 = -1;
+            int adj22 = 1;
+            int adj23 = -1;
+            int adj24 = 1;
+
+            int adj31 = 1;
+            int adj32 = -1;
+            int adj33 = 1;
+            int adj34 = -1;
+
+            int adj41 = -1;
+            int adj42 = 1;
+            int adj43 = -1;
+            int adj44 = 1;
+
             // Elegir fila a eliminr →
             // Eliminar la columna ↓
 
             // Calcular Sarrus 
             // Determinante 1 dia. superior
             int d1 = calDiagonal(num22, num33, num44);
-            int d2 = calDiagonal(num23, num34, num42);
+            int d2 = calDiagonal(num23, num34, num41);
             int d3 = calDiagonal(num24, num32, num43);
             int ds = calsum(d1, d2, d3);
             // DIagonal inferior
@@ -102,24 +122,8 @@ namespace INTRO0._1
             //Calcular dterminante
             determinante4 = ds - di;
 
-
-            /// int adj1 = determinante1
-            //int adj = (-1) * i + j;
-            //int adj11 = adj * determinante1;
-                
-
-            // int c1 = (num11 * determinante1 * 1);
-            // int c2 = (num12 * determinante2 * -1);
-            // int c3 = (num13 * determinante3 * 1);
-            // int c4 = (num14 * determinante4 * -1);
-            // int cal = multi_suma_res(c1, c2, c3, c4);
-            // int vt = cal;
-            // resultado.Text = vt.ToString();
-
-            int det = (num11 * determinante1 * 1) +
-                (num12 * determinante2 * -1) +
-                (num13 * determinante3 * 1) +
-                (num14 * determinante4 * -1);
+            int det = (num11 * (determinante1 * adj11)) + (num21 * (determinante2 * adj21)) +
+                (num31 * (determinante3 * adj31)) + (num41 * (determinante4 * adj41));
             resultado.Text = det.ToString();
 
             Det_1.Text = determinante1.ToString();

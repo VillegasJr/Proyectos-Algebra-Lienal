@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{26DAF9D5-845F-4DB0-B242-27B9F030B331}|INTRO0.1.csproj|solutionrelative:laplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DAF9D5-845F-4DB0-B242-27B9F030B331}|INTRO0.1.csproj|c:\\users\\rrevi\\onedrive\\documentos\\proyectos c#\\intro0.1\\laplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{26DAF9D5-845F-4DB0-B242-27B9F030B331}|INTRO0.1.csproj|C:\\Users\\rrevi\\OneDrive\\Documentos\\PROYECTOS C#\\INTRO0.1\\laplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{26DAF9D5-845F-4DB0-B242-27B9F030B331}|INTRO0.1.csproj|solutionrelative:laplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "LAPLACE.cs",
               "ToolTip": "C:\\Users\\rrevi\\OneDrive\\Documentos\\PROYECTOS C#\\INTRO0.1\\LAPLACE.cs",
               "RelativeToolTip": "LAPLACE.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAYwGcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAADgv34AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T19:00:43.406Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "C:\\Users\\rrevi\\OneDrive\\Documentos\\PROYECTOS C#\\INTRO0.1\\LAPLACE.cs [Design]",
               "RelativeToolTip": "LAPLACE.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T18:58:15.954Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-15T18:58:15.954Z"
             },
             {
               "$type": "Document",
@@ -57,10 +56,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\rrevi\\OneDrive\\Documentos\\PROYECTOS C#\\INTRO0.1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T18:14:29.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T18:14:29.503Z"
             }
           ]
         }
